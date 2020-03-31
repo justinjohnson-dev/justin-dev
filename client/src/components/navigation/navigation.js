@@ -39,8 +39,14 @@ const Navigation = ( {history} ) => (
             {!isAuthenticated() && (
                 <Fragment>
                     <li>
-                        <Link className='nav-style links' style={isActive(history, '/')} to='/'>
+                        <Link className='nav-style links' style={isActive(history, '/login')} to='/login'>
                             Login
+                        </Link>
+                    </li>
+
+                    <li>
+                        <Link className='nav-style links' style={isActive(history, '/signup')} to='/signup'>
+                            Sign Up
                         </Link>
                     </li>
                 </Fragment>
