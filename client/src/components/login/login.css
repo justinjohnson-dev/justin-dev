@@ -74,5 +74,9 @@
     }
     .error-top, .loading-top {
         margin-top: 10px;
+        width: 50%;
+    }
+    .user-message {
+        padding: 10px;
     }
 }
