@@ -1,5 +1,5 @@
 
-- New Repository based on justindev repo where initial webpage was built in html/css [Link to old Repo] (https://github.com/justinjohnson-dev/justindev)
+- New Repository based on justindev repo where initial webpage was built in html/css [Link to old Repo](https://github.com/justinjohnson-dev/justindev)
 
 - justindev repository was then built with react and firebase hosting on git pages
 
